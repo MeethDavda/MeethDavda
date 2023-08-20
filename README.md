@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Different technologies in Web3**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Typescrip**
 
 - 📫 How to reach me **mjdavda02@gmail.com**
 
