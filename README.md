@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mjdavda02@gmail.com**
 
-- 📄 Know about my experiences [https://personal-portfolio-33040.web.app](https://personal-portfolio-33040.web.app)
+- 📄 Know about my experiences [https://personal-portfolio-meeth.netlify.app/](https://personal-portfolio-meeth.netlify.app/)
 
 - ⚡ Fun fact **I absolutely love playing games**
 
