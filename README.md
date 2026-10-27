@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mjdavda02@gmail.com**
 
-- 📄 Know about my experiences [https://itsmeeth.dev/](https://itsmeeth.dev/)
+- 📄 Know everything about me [https://itsmeeth.dev/](https://itsmeeth.dev/)
 
 - ⚡ Fun fact **I am really into Formula 1**
 
